@@ -1,0 +1,26 @@
+[
+  {
+    "name": "unity",
+    "appID": "5202489",
+    "interstitial": "Interstitial_Android",
+    "banner": "Banner_Android",
+    "native": "",
+    "eCpm": 1
+  },
+  {
+    "name": "vungle",
+    "appID": "640e81a2ece1e7fe61a2048c",
+    "interstitial": "INTERSTITIAL-5844493",
+    "banner": "BANNER-3817586",
+    "native": "NATIVE-7067470",
+    "eCpm": 1
+  },
+  {
+    "name": "adcolony",
+    "appID": "app6ca72bc751ba4519bd",
+    "interstitial": "vz1f36b5f20c2642c7bb",
+    "banner": "",
+    "native": "",
+    "eCpm": 1
+  }
+]

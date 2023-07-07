@@ -22,5 +22,13 @@
     "banner": "",
     "native": "",
     "eCpm": 1
+  },
+  {
+    "name": "admob",
+    "appID": "ca-app-pub-5144201796667200~8829351596",
+    "interstitial": "ca-app-pub-5144201796667200/3865595686",
+    "banner": "ca-app-pub-5144201796667200/6040386784",
+    "native": "",
+    "eCpm": 2.0
   }
 ]
